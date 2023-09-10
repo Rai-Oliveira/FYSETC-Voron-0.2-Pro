@@ -49,15 +49,15 @@ Check [here](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/BOM.md).
 
 So we modify these STLs base on the originals. You can find them in our `github` or `gitee`.
 
-`FramePCBCover X1.stl` : For VORON V0 UMBILICAL FRAME[github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/STL/ADD/FramePCBCover%20X1.STL)
+`FramePCBCover X1.stl` : For VORON V0 UMBILICAL FRAME[github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/0.2/STL/ADD/FramePCBCover%20X1.STL)
 
-`ToolheadSpacer_with_StrainRelief X1`:For VORON V0 UMBILICAL TOOL HEAD [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/STL/ADD/ToolheadSpacer_with_StrainRelief%20X1.STL)
+`ToolheadSpacer_with_StrainRelief X1`:For VORON V0 UMBILICAL TOOL HEAD [github](https://github.com/FYSETC/FYSETC-Voron-0.2-Pro/blob/main/0.2/STL/ADD/ToolheadSpacer_with_StrainRelief%20X1.STL)
 
-`VORON0.1 X2.stl` :For CNC Lightweight Gantry [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/STL/ADD/VORON0.1%20X2.stl)
+`VORON0.1 X2.stl` :For CNC Lightweight Gantry [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/0.2/STL/ADD/VORON0.1%20X2.stl)
 
-`LJY-B01 X1.stl`:For One-piece CNC hotbed holder [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/STL/ADD/LJY-B01%20X1.STL)
+`LJY-B01 X1.stl`:For One-piece CNC hotbed holder [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/0.2/STL/ADD/LJY-B01%20X1.STL)
 
-`Drag Chain Spacer X1.stl`:For One-piece CNC hotbed holder Chain [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/STL/ADD/Drag%20Chain%20Spacer%20X1.STL)
+`Drag Chain Spacer X1.stl`:For One-piece CNC hotbed holder Chain [github](https://github.com/FYSETC/FYSETC-Voron-0.2/blob/main/0.2/STL/ADD/Drag%20Chain%20Spacer%20X1.STL)
 
 
 ## 4. Installation Guide
